@@ -2,6 +2,7 @@
 
 A minimal ESPHome configuration to drive the **ZJY152152-0154EAA** 1.54‑inch e‑paper display (SSD1680 driver).  
 This template uses `waveshare_epaper` component with the `2.13in-ttgo-b74` model, which is the only model I personally know of that works with this panel.
+![IMG_20260329_024903](https://github.com/user-attachments/assets/e6d8f83f-4d5d-4c7f-842f-1b48bc8c812d)
 
 ## Hardware Wiring
 
